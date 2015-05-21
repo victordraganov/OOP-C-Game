@@ -26,6 +26,6 @@ int Body::Width() const{
 	return this->width;
 }
 
-int  Body::Height() const {
+int  Body::Height() const{
 	return this->height;
 }
